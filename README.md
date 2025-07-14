@@ -72,7 +72,7 @@ Whether it's optimizing algorithms or building scalable back-end systems, I’m 
   <a href="https://github.com/AYUSH0613">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/ayush0613">
+  <a href="https://leetcode.com/ayushparoliya">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
